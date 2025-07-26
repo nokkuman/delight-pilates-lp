@@ -1,0 +1,37 @@
+body {
+  font-family: sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background: #fffaf7;
+  color: #333;
+}
+header {
+  background: #f9dede;
+  padding: 2em;
+  text-align: center;
+}
+main {
+  padding: 2em;
+}
+section {
+  margin-bottom: 2em;
+}
+footer {
+  text-align: center;
+  padding: 1em;
+  background: #eee;
+  font-size: 0.8em;
+}
+a {
+  display: inline-block;
+  margin-top: 1em;
+  background: #ff7f7f;
+  color: white;
+  padding: 0.5em 1em;
+  text-decoration: none;
+  border-radius: 5px;
+}
+a:hover {
+  background: #e75757;
+}
